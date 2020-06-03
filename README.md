@@ -1,2 +1,2 @@
 # 2020xxxx	Chaehun Yang
-# Kookmin Univ.SW
+# Kookmin Univ.computer Science 
